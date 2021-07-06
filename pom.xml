@@ -723,7 +723,6 @@
         <activeByDefault>true</activeByDefault>
       </activation>
       <properties>
-        <log.level>WARN</log.level>
         <spark.version>2.3.0</spark.version>
         <spark.internal.version>2.3.0</spark.internal.version>
         <scala.version>2.11.8</scala.version>
